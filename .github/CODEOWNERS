@@ -1,0 +1,65 @@
+# Documentation/Infrastructure
+/docs                                       @JustinyAhin @felixarntz
+/admin                                      @JustinyAhin @felixarntz
+/tests/admin                                @JustinyAhin @felixarntz
+/bin                                        @JustinyAhin @felixarntz
+/.github                                    @JustinyAhin @felixarntz
+
+# Focus: Images
+/modules/images                             @adamsilverstein @getsource
+/tests/modules/images                       @adamsilverstein @getsource
+/tests/testdata/modules/images              @adamsilverstein @getsource
+
+# Focus: JavaScript
+/modules/javascript                         @aristath @sgomes
+/tests/modules/javascript                   @aristath @sgomes
+/tests/testdata/modules/javascript          @aristath @sgomes
+
+# Focus: Site Health
+/modules/site-health
+/tests/modules/site-health
+/tests/testdata/modules/site-health
+
+# Focus: Measurement
+/modules/measurement
+/tests/modules/measurement
+/tests/testdata/modules/measurement
+
+# Focus: Object Cache
+/modules/object-cache                       @tillkruss @spacedmonkey
+/tests/modules/object-cache                 @tillkruss @spacedmonkey
+/tests/testdata/modules/object-cache        @tillkruss @spacedmonkey
+
+# Module: WebP Uploads
+/modules/images/webp-uploads                                                @adamsilverstein @felixarntz @mitogh
+/tests/modules/images/webp-uploads                                          @adamsilverstein @felixarntz @mitogh
+/tests/testdata/modules/images/webp-uploads                                 @adamsilverstein @felixarntz @mitogh
+
+# Module: WebP Support
+/modules/site-health/webp-support                                           @adamsilverstein @kirtangajjar @mitogh
+/tests/modules/site-health/webp-support                                     @adamsilverstein @kirtangajjar @mitogh
+/tests/testdata/modules/site-health/webp-support                            @adamsilverstein @kirtangajjar @mitogh
+
+# Module: Audit Autoloaded Options
+/modules/site-health/audit-autoloaded-options                               @manuelRod
+/tests/modules/site-health/audit-autoloaded-options                         @manuelRod
+/tests/testdata/modules/site-health/audit-autoloaded-options                @manuelRod
+
+# Module: Audit Enqueued Assets
+/modules/site-health/audit-enqueued-assets                                  @manuelRod
+/tests/modules/site-health/audit-enqueued-assets                            @manuelRod
+/tests/testdata/modules/site-health/audit-enqueued-assets                   @manuelRod
+
+# Module: Persistent Object Cache Health Check
+/modules/object-cache/persistent-object-cache-health-check                  @tillkruss @spacedmonkey
+/tests/modules/object-cache/persistent-object-cache-health-check            @tillkruss @spacedmonkey
+/tests/testdata/modules/object-cache/persistent-object-cache-health-check   @tillkruss @spacedmonkey
+
+# Module: Dominant Color
+/modules/images/dominant-color                                              @pbearne @spacedmonkey
+/tests/modules/images/dominant-color                                        @pbearne @spacedmonkey
+/tests/testdata/modules/images/dominant-color                               @pbearne @spacedmonkey
+
+# Module: Audit Enqueued Assets
+/modules/site-health/audit-full-page-cache                                  @manuelRod @westonruter
+/tests/modules/site-health/audit-full-page-cache                            @manuelRod @westonruter
