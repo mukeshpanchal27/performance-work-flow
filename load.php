@@ -21,7 +21,7 @@ define( 'PERFLAB_MODULES_SETTING', 'perflab_modules_settings' );
 define( 'PERFLAB_MODULES_SCREEN', 'perflab-modules' );
 
 /**
- * Registers the performance modules setting.
+ * Registers the test performance modules setting.
  *
  * @since 1.0.0
  */
