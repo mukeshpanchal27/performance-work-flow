@@ -41,13 +41,12 @@ jobs:
 
     #env:
     #  WP_ENV_PHP_VERSION: ${{ matrix.php }}-fpm
-    name: "PHP ${{ matrix.php }} on ${{ matrix.os }}"
-    runs-on: ${{ matrix.os }}
+    name: "PHP ${{ matrix.php }}"
+    runs-on: ubuntu-latest
     strategy:
       fail-fast: false
       matrix:
         php: ['5.6', '7.4', '8.0']
-        os: [ ubuntu-latest ]
 
     env:
       WP_ENV_PHP_VERSION: ${{ matrix.php }}-fpm
